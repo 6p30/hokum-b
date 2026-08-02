@@ -1,6 +1,1 @@
-# ```hey!```
-```doing my best to write above average software, mainly in c. @9p.io on discord if you'd like to contact me.```
-
- <img src="fedora.png" alt="description" height="31" width="88"> <img src="freebsd.png" alt="description" height="31" width="88">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1400735469419102248?showDisplayName=true&theme=dark)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1400735469419102248?idleMessage=writing%20above%20average%20software.)](https://discord.com/users/1400735469419102248)
