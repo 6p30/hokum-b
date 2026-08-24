@@ -1,1 +1,0 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1400735469419102248?idleMessage=writing%20above%20average%20software.)](https://discord.com/users/1400735469419102248)
