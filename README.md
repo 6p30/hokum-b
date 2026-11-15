@@ -1,1 +1,0 @@
-[IMG](https://i.postimg.cc/rpv71C0N/HXJP1cu-Xw-AAukwn.jpg)
