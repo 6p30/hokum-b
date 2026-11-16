@@ -1,1 +1,1 @@
-[![Alt text](iweigh23600kg.jpg)[iweigh23600kg.jpg]
+![Alt text](iweigh23600kg.jpg)
